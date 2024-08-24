@@ -1,5 +1,5 @@
-![image alt](![Screenshot 2024-08-24 185525](https://github.com/user-attachments/assets/38babe2d-1838-4fc7-bd36-c26675f5b0db)
-)
+![image alt](https://github.com/user-attachments/assets/38babe2d-1838-4fc7-bd36-c26675f5b0db)
+
 
 
 This dashboard gives the data related to the sales of cars over a the years from 1994 to 2020 .This dataset can be used for analysis in various contexts like brand,selling price,year,km_driven,no.of owners,seats,fuel,seller type,max_power,transmission,torque,engine.
